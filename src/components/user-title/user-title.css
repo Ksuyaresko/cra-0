@@ -1,0 +1,17 @@
+.user-title {
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 0 20px;
+    position: relative;
+}
+
+.user-title:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 100px;
+    height: 2px;
+    background: #ffffff;
+}
