@@ -1,3 +1,7 @@
+[Link to Life Demo](https://ksuyaresko.github.io/cra-0/)
+
+Published at surge: http://black-and-white-cracker.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
