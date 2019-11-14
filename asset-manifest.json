@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ksuyaresko/rca/static/css/main.4ff24926.chunk.css",
-    "main.js": "/Ksuyaresko/rca/static/js/main.e687db82.chunk.js",
-    "runtime-main.js": "/Ksuyaresko/rca/static/js/runtime-main.ab7e830d.js",
-    "static/js/2.9dd0ba9b.chunk.js": "/Ksuyaresko/rca/static/js/2.9dd0ba9b.chunk.js",
-    "index.html": "/Ksuyaresko/rca/index.html",
-    "precache-manifest.5fddbab0bfbe64206657b60688da8351.js": "/Ksuyaresko/rca/precache-manifest.5fddbab0bfbe64206657b60688da8351.js",
-    "service-worker.js": "/Ksuyaresko/rca/service-worker.js"
+    "main.css": "/cra-0/static/css/main.4ff24926.chunk.css",
+    "main.js": "/cra-0/static/js/main.e485682c.chunk.js",
+    "runtime-main.js": "/cra-0/static/js/runtime-main.75a0513a.js",
+    "static/js/2.9dd0ba9b.chunk.js": "/cra-0/static/js/2.9dd0ba9b.chunk.js",
+    "index.html": "/cra-0/index.html",
+    "precache-manifest.996bac895f7bae9b91a42d10cb401b91.js": "/cra-0/precache-manifest.996bac895f7bae9b91a42d10cb401b91.js",
+    "service-worker.js": "/cra-0/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab7e830d.js",
+    "static/js/runtime-main.75a0513a.js",
     "static/js/2.9dd0ba9b.chunk.js",
     "static/css/main.4ff24926.chunk.css",
-    "static/js/main.e687db82.chunk.js"
+    "static/js/main.e485682c.chunk.js"
   ]
 }
